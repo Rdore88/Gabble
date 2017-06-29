@@ -1,0 +1,30 @@
+{
+  "name": "gabble",
+  "version": "1.0.0",
+  "description": "Social Media",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdore88/Gabble.git"
+  },
+  "author": "Robby Dore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rdore88/Gabble/issues"
+  },
+  "homepage": "https://github.com/Rdore88/Gabble#readme",
+  "dependencies": {
+    "bcrypt": "1.0.2",
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "express-session": "1.15.3",
+    "express-validator": "3.2.0",
+    "mustache-express": "1.2.5",
+    "nodemon": "1.11.0",
+    "pg": "6.4.0",
+    "sequelize": "4.2.1"
+  }
+}
